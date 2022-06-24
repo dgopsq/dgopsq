@@ -1,0 +1,12 @@
+name: Blank
+
+on: push
+
+jobs:
+  merge_schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run an useless script
+        run: echo Hello, world!
