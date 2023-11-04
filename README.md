@@ -1,3 +1,3 @@
-### Yo 🧙‍♂️
+### Hi 👋
 
-I'm a Software Engineer mainly focused on web architectures and heavily oriented toward the functional programming paradigm. I have a strong background in frontend development (HTML, CSS and JavaScript/TypeScript) using React / React Native, and in backend development using Scala (mostly FP) and NodeJS.
+I'm an experienced Software Engineer with a strong knowledge of React / React Native and NodeJS. I've also played with almost every other language out there, including TypeScript, Scala, Rust, and PureScript. Functional programming is my go-to paradigm when possible, and I've had the opportunity to use it extensively in my career.
